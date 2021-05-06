@@ -1,0 +1,6 @@
+.navbar-nav>li>a {
+    line-height: 50px;
+    font-size: 20px;
+    color: #ffffff;
+    margin-right: 25px;
+}
